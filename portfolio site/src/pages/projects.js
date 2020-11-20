@@ -25,7 +25,6 @@ export const query = graphql`
         id
         url
         title
-        gitthub
         stack {
           id
           title
